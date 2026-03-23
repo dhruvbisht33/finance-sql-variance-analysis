@@ -1,0 +1,5 @@
+ship_mode,line_items,orders,revenue,profit,profit_margin_pct,avg_line_item_value
+Standard Class,5968,2994,1358215.74,164088.79,12.08,227.58
+Second Class,1945,964,459193.57,57446.64,12.51,236.09
+First Class,1538,787,351428.42,48969.84,13.93,228.5
+Same Day,543,264,128363.12,15891.76,12.38,236.4
